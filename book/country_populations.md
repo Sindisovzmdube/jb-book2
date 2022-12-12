@@ -12,9 +12,12 @@ kernelspec:
 ---
 
 
-### Using a directive
+## Data Visualization
 
-At its simplest, you can insert a directive into your book's content like so:
+Assignment Learning Goals: By the end of the module, students were expected to:
+- Choose effective visual channels for information display. - Visualize frequencies with bar plots. 
+- Facet plots to explore more variables simultaneously. 
+- Customize axes labels and scales. This assignment covers [Module 2](https://viz-learn.mds.ubc.ca/en/module2) of the online course:
 
 ````
 ```{mydirectivename}
