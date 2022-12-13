@@ -1,6 +1,6 @@
 # Data Visualization Notes
 
-This is a short summary of some chapters covered in the Data Visualization Module at UBC
+This is a short summary of some chapter 2 concepts covered in the Data Visualization Module at UBC
 
 ## Usage
 
