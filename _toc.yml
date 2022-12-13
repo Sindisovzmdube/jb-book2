@@ -3,23 +3,24 @@
 
 format: jb-book
 root: index
-#chapters:
-#  - file: book/markdown
-#  - file: book/notebooks
-#  - file: book/bibliography
+chapters:
+  - file: book/country_population
+  - file: book/country_emmissions
+  - file: book/population
+  - file: book/emissions
+  - file: book/bibliography
 
 # Or you organize the TOC by parts
 
- parts:
-   - caption: Chapters
-     numbered: true
-     maxdepth: 2
-     chapters:
-       - file: book/markdown
-       - file: book/country_population
-       - file: book/country_emmissions
-       - file: book/population
-       - file: book/emissions
-   - caption: Appendices
-     chapters:
-       - file: book/bibliography
+# parts:
+#   - caption: Chapters
+#     numbered: true
+#     maxdepth: 2
+#     chapters:
+#       - file: book/country_population
+#       - file: book/country_emmissions
+#       - file: book/population
+#       - file: book/emissions
+#   - caption: Appendices
+#     chapters:
+#       - file: book/bibliography
