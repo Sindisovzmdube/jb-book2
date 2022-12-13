@@ -10,19 +10,29 @@ kernelspec:
   language: python
   name: python3
 ---
+#### Some of the equations used in the analysis
 
 
+Conditional Variance:
+\begin{equation}
+\hat{\sigma}^2 = \frac{\sum{\hat{\epsilon}}^2_i} {n – 2} = \frac{\sum(Y_i – \hat{Y}_i)^2} {n – 2}
+\end{equation}
 
-````
+Conditional Standard Deviation:
+\begin{equation}
+\hat{\sigma} = \sqrt\frac{\sum(Y_i – \hat{Y}_i)^2} {n – 2}
+\end{equation}
+
+
 ```{mydirectivename}
 My directive content
 ```
-````
 
-This will only work if a directive with name `mydirectivename` already exists
-(which it doesn't). There are many pre-defined directives associated with
-Jupyter Book. For example, to insert a note box into your content, you can
-use the following directive:
+
+```{contents}
+
+```
+
 
 ````
 ```{note}
