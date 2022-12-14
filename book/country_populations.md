@@ -16,10 +16,7 @@ kernelspec:
 ![](C:\Users\sindi\Pictures\overpopulated.png)
 
 ```{figure} C:\Users\sindi\Pictures\overpopulated.png
----
-name:overpopulated
-width:825px
----
+
 ```
 Assignment Learning Goals: By the end of the module, students were expected to:
 
@@ -27,11 +24,6 @@ Assignment Learning Goals: By the end of the module, students were expected to:
 - Facet plots to explore more variables simultaneously.
 - Customize axes labels and scales. This assignment covers [Module 2](https://viz-learn.mds.ubc.ca/en/module2) of the online course:
 
-````
-```{mydirectivename}
-My directive content
-```
-````
 
 The Gapminder.csv dataset was used for most of the chapter. Read_csv from Pandas was used to load the dartaset.
 
