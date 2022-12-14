@@ -4,7 +4,7 @@
 format: jb-book
 root: index
 chapters:
-  - file: book/country_population
+  - file: book/country_populations
   - file: book/country_emmissions
   - file: book/population
   - file: book/emissions
