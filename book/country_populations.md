@@ -54,16 +54,13 @@ Sample regression line:
 \end{equation}
 
 
-
-```
-jupyter-book myst init markdown.md
-```
-
-
-````
-```{code-cell}
-print("Jupytex refuses to cooperate")
-```
-````
+"cells": [
+{
+"attachments": {},
+"cell_type": "markdown",
+"metadata": {},
+"source": [
+"<img src="image/logo.png" width=300 height=890 align ='left' />"
+]
 
 
